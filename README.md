@@ -2,6 +2,8 @@ This is a NextJS boilerplate that I use to build my web applications.
 
 ## Folder Structure
 
+```
+
 src
 ├── actions -> This is where my current directory's server actions reside
 ├── app
@@ -25,6 +27,8 @@ src
 ├── use-cases -> My Business Layer
 │   └── users.ts
 └── utils -> Utility functions
+
+```
 
 ## Libraries I use
 
